@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Architecture\\Lab4\\ThreeTierAchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEB228A-98E2-4E46-81ED-6A1AADEADC73}|Todo.Application\\Todo.Application.csproj|d:\\architecture\\lab4\\threetierachitecture\\todo.application\\todo.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CAEB228A-98E2-4E46-81ED-6A1AADEADC73}|Todo.Application\\Todo.Application.csproj|solutionrelative:todo.application\\todo.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 300,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Todo.Application",
+              "DocumentMoniker": "D:\\Architecture\\Lab4\\ThreeTierAchitecture\\Todo.Application\\Todo.Application.csproj",
+              "RelativeDocumentMoniker": "Todo.Application\\Todo.Application.csproj",
+              "ToolTip": "D:\\Architecture\\Lab4\\ThreeTierAchitecture\\Todo.Application\\Todo.Application.csproj*",
+              "RelativeToolTip": "Todo.Application\\Todo.Application.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-05T03:00:33.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

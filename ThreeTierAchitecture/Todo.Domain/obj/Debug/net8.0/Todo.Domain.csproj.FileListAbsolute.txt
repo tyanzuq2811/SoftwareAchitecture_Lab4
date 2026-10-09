@@ -1,0 +1,14 @@
+D:\Architecture\Lab4\ThreeTierAchitecture\Todo.Domain\bin\Debug\net8.0\Todo.Domain.deps.json
+D:\Architecture\Lab4\ThreeTierAchitecture\Todo.Domain\bin\Debug\net8.0\Todo.Domain.runtimeconfig.json
+D:\Architecture\Lab4\ThreeTierAchitecture\Todo.Domain\bin\Debug\net8.0\Todo.Domain.dll
+D:\Architecture\Lab4\ThreeTierAchitecture\Todo.Domain\bin\Debug\net8.0\Todo.Domain.pdb
+D:\Architecture\Lab4\ThreeTierAchitecture\Todo.Domain\obj\Debug\net8.0\Todo.Domain.csproj.AssemblyReference.cache
+D:\Architecture\Lab4\ThreeTierAchitecture\Todo.Domain\obj\Debug\net8.0\Todo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Architecture\Lab4\ThreeTierAchitecture\Todo.Domain\obj\Debug\net8.0\Todo.Domain.AssemblyInfoInputs.cache
+D:\Architecture\Lab4\ThreeTierAchitecture\Todo.Domain\obj\Debug\net8.0\Todo.Domain.AssemblyInfo.cs
+D:\Architecture\Lab4\ThreeTierAchitecture\Todo.Domain\obj\Debug\net8.0\Todo.Domain.csproj.CoreCompileInputs.cache
+D:\Architecture\Lab4\ThreeTierAchitecture\Todo.Domain\obj\Debug\net8.0\Todo.Domain.dll
+D:\Architecture\Lab4\ThreeTierAchitecture\Todo.Domain\obj\Debug\net8.0\refint\Todo.Domain.dll
+D:\Architecture\Lab4\ThreeTierAchitecture\Todo.Domain\obj\Debug\net8.0\Todo.Domain.pdb
+D:\Architecture\Lab4\ThreeTierAchitecture\Todo.Domain\obj\Debug\net8.0\Todo.Domain.genruntimeconfig.cache
+D:\Architecture\Lab4\ThreeTierAchitecture\Todo.Domain\obj\Debug\net8.0\ref\Todo.Domain.dll
